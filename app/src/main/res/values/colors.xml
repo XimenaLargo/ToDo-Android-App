@@ -6,5 +6,9 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
+    <color name="gray">#B6A8A8</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="todo_background">#6072D5</color>
+    <color name="todo_background_card">#12193E</color>
+
 </resources>
