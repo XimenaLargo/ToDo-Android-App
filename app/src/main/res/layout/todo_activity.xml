@@ -24,10 +24,13 @@
         android:text="@string/todo_categories"
         android:textAllCaps="true"
         android:textColor="@color/gray"
+        android:textStyle="bold"
+        android:textSize="16sp"
         android:layout_marginHorizontal="32dp"
         />
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rvCategories"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"/>
 </LinearLayout>
