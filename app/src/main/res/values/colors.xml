@@ -9,6 +9,9 @@
     <color name="gray">#B6A8A8</color>
     <color name="white">#FFFFFFFF</color>
     <color name="todo_background">#6072D5</color>
-    <color name="todo_background_card">#12193E</color>
+    <color name="todo_background_card">#24358E</color>
+    <color name="todo_job_card">#7238D6</color>
+    <color name="todo_personal_card">#4D7E79</color>
+    <color name="todo_other_card">#A6645F</color>
 
 </resources>
