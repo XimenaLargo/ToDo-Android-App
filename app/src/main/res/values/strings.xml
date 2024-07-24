@@ -3,4 +3,8 @@
     <string name="todo_title">Bienvenido, user</string>
     <string name="todo_categories">Categorias</string>
     <string name="tasks">Tareas</string>
+    <string name="todo_dialog">Agregar Tarea</string>
+    <string name="todo_category_job">Trabajo</string>
+    <string name="todo_category_personal">Personal</string>
+    <string name="todo_category_other">Otro</string>
 </resources>
