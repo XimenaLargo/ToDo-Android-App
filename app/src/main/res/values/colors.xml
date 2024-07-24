@@ -13,5 +13,6 @@
     <color name="todo_job_card">#7238D6</color>
     <color name="todo_personal_card">#4D7E79</color>
     <color name="todo_other_card">#A6645F</color>
+    <color name="todo_accent">#F61260</color>
 
 </resources>
