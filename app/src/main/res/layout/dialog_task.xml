@@ -3,10 +3,11 @@
     android:orientation="vertical"
     android:layout_width="250dp"
     android:layout_height="wrap_content"
+    android:padding="20dp"
     android:background="@color/todo_background_card">
 
     <EditText
-        android:id="@+id/edTask"
+        android:id="@+id/etTask"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:backgroundTint="@color/white"
@@ -46,4 +47,12 @@
             android:textColor="@color/white"
             />
     </RadioGroup>
+
+    <Button
+        android:id="@+id/btnAddTask"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/todo_accent"
+        android:text="CREAR TAREA"
+        />
 </LinearLayout>

@@ -15,7 +15,7 @@
     <color name="todo_other_card">#A6645F</color>
     <color name="todo_accent">#F61260</color>
     <color name="todo_job_category">#F89216</color>
-    <color name="todo_personal_category">#F89216</color>
-    <color name="todo_other_category">#F89216</color>
+    <color name="todo_personal_category">#039DE3</color>
+    <color name="todo_other_category">#019587</color>
 
 </resources>
