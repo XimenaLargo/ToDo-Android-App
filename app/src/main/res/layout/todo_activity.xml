@@ -5,8 +5,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-
-
 <LinearLayout
 
     android:layout_width="match_parent"
@@ -51,17 +49,15 @@
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="32dp" />
 
+</LinearLayout>
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/fabAddTask"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="end|bottom"
         android:layout_margin="32dp"
-        android:backgroundTint="@color/todo_accent"
+        app:backgroundTint="@color/todo_accent"
         android:src="@android:drawable/ic_input_add"
-        android:tint="@color/white"
-        app:fabSize="normal" />
-
-</LinearLayout>
+        app:tint="@color/white"/>
 
 </FrameLayout>
